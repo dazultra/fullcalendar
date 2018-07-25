@@ -15,7 +15,7 @@
     "grunt-contrib-cssmin": "^0.10.0",
     "grunt-contrib-jshint": "^0.8.0",
     "grunt-contrib-uglify": "^0.1.2",
-    "grunt-jscs-checker": "^0.4.4",
+    "grunt-jscs": "^3.0.1",
     "grunt-karma": "^0.8.3",
     "grunt-shell": "^0.7.0",
     "karma": "^2.0.5",

@@ -14,7 +14,6 @@ The year table layout is customizable (2x6, 3x4, 4x3, 6x2), and the first month 
 
 
 - [Project website and demos](http://arshaw.com/fullcalendar/)
-- [Yearview demo](http://epsy.linuxd.org/fullcalendar/)
 - [Documentation](http://arshaw.com/fullcalendar/docs/)
 - [Support](http://arshaw.com/fullcalendar/support/)
 - [Changelog](changelog.md)
